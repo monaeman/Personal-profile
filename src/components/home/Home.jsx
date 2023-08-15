@@ -11,18 +11,17 @@ const Home = () => {
           style={{ maxWidth: "100%", width: "100%", height: "100%" }} // Adjust the styling as needed
         />
 
-        <h1 className="display-4">Hello, world!</h1>
-        <p className="lead">
-          This is a simple hero unit, a simple jumbotron-style component for
-          calling extra attention to featured content or information.
-        </p>
+        <h1 className="display-4">Mona Hassan</h1>
+        <p className="lead"></p>
         <hr className="my-4" />
-        <p>
-          It uses utility classes for typography and spacing to space content
-          out within the larger container.
-        </p>
-        <a className="btn btn-primary btn-lg" href="#" role="button">
-          Learn more
+        <p></p>
+        <a
+          className="btn btn-primary btn-lg"
+          href="public/SECV.pdf"
+          target="_blank" // Opens the link in a new tab
+          rel="noopener noreferrer" // Recommended for security
+        >
+          Resume
         </a>
       </div>
     </div>
