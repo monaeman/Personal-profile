@@ -5,6 +5,12 @@ const Home = () => {
   return (
     <div>
       <div className="jumbotron">
+        <img
+          src="src/image/personal profile background.jpg"
+          alt="Hello Image"
+          style={{ maxWidth: "100%", width: "100%", height: "100%" }} // Adjust the styling as needed
+        />
+
         <h1 className="display-4">Hello, world!</h1>
         <p className="lead">
           This is a simple hero unit, a simple jumbotron-style component for
