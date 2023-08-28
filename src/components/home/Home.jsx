@@ -11,7 +11,9 @@ const Home = () => {
           style={{ maxWidth: "100%", width: "100%", height: "100%" }} // Adjust the styling as needed
         />
 
-        <h1 className="display-4">Mona Hassan</h1>
+        <h1 className="display-4"> Mona</h1>
+        <p>Hello! My name is Mona Hassan, and I'm a web developer from New Jersey, USA. I enjoy building everything from small business sites to rich interactive web apps. If you are a business seeking a web
+          presence or an employer looking to hire, you can get in touch with my via Email : mona.hassan0962@gmail.com  </p>
         <p className="lead"></p>
         <hr className="my-4" />
         <p></p>

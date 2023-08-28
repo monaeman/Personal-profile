@@ -37,7 +37,12 @@ const About = () => {
         </Card.Body>
       </Card>
 
-      <Card style={{ width: "18rem" }}>
+      <Card
+        style={{
+          width: "18rem",
+          borderColor: "pink",
+        }}
+      >
         {/*<Card.Img variant="top" src="holder.js/100px180" />*/}
         <Card.Body>
           <Card.Title>Netlify Portfolio</Card.Title>
